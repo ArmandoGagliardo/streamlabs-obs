@@ -7557,6 +7557,11 @@ node-pre-gyp@^0.6.29:
     tar "~2.2.1"
     tar-pack "~3.3.0"
 
+node-win32-np@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/node-win32-np/-/node-win32-np-1.0.4.tgz#17a85ce45cbcc8630bd0378d242b76a72ab54b5d"
+  integrity sha512-XmU5PUBk/ksXba1N3nqm1lrBHY9cbPPcg8M/ia6G1Ibeltdy8czD6HfaX8YL/Ycf5WPEoySyEvOnKczFLCdrGA==
+
 nomnom@^1.8.1:
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/nomnom/-/nomnom-1.8.1.tgz#2151f722472ba79e50a76fc125bb8c8f2e4dc2a7"
